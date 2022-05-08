@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="button_text_size">16sp</dimen>
+    <dimen name="header_text_size">16sp</dimen>
+    <dimen name="chat_user_name_size">13sp</dimen>
+    <dimen name="chat_user_message_size">15sp</dimen>
+    <dimen name="hint_field_text_size">16sp</dimen>
+    <dimen name="input_field_text_size">16sp</dimen>
+
+    <dimen name="button_horizontal_margin">30dp</dimen>
+    <dimen name="button_vertical_margin">24dp</dimen>
+
+    <dimen name="button_icon_size">24dp</dimen>
+
+    <dimen name="button_height">55dp</dimen>
+
+    <dimen name="icon_horizontal_margin">10dp</dimen>
+
+    <dimen name="login_margin_top">214dp</dimen>
+    <dimen name="login_margin_bottom">213dp</dimen>
+
+    <dimen name="login_layout_top_margin">16dp</dimen>
+
+    <dimen name="login_username_edittext_top_margin">24dp</dimen>
+
+    <dimen name="login_edittext_horizontal_margin">30dp</dimen>
+
+    <dimen name="login_login_button_vertical_margin">24dp</dimen>
+    <dimen name="login_login_button_horizontal_margin">25dp</dimen>
+
+    <dimen name="login_button_height">55dp</dimen>
+
+    <dimen name="list_item_start_margin">16dp</dimen>
+    <dimen name="list_item_end_margin">21dp</dimen>
+    <dimen name="list_item_right_margin">7dp</dimen>
+    <dimen name="list_item_username_bottom_margin">4dp</dimen>
+
+    <dimen name="btn_corner_size">5dp</dimen>
+</resources>

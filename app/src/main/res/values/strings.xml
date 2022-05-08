@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    <!-- Main Screen Strings -->
+    <string name="activity_main_title">Coding Tasks</string>
+    <string name="chat_button">CHAT</string>
+    <string name="login_button">LOGIN</string>
+    <string name="animation_button">ANIMATION</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="error_no_network">Need network connectivity.</string>
+    <string name="error_missing_email">Need email address.</string>
+    <string name="error_missing_password">Need password.</string>
+    <string name="error_login_needed">Please login before accessing chat.</string>
+
+    <string name="title_code">Code</string>
+    <string name="title_message">Message</string>
+    <string name="title_time">Amount of time to took to authenicate (in milliseconds).</string>
+    <string name="btn_fade_in">Fade In</string>
+
+</resources>
